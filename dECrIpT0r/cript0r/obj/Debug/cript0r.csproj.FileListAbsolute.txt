@@ -1,0 +1,11 @@
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\bin\Debug\cript0r.exe.config
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\bin\Debug\cript0r.exe
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\bin\Debug\cript0r.pdb
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.csprojAssemblyReference.cache
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.MainForm1.resources
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.Properties.Resources.resources
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.csproj.GenerateResource.cache
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.csproj.CoreCompileInputs.cache
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.exe
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.pdb
+C:\Users\milad\Desktop\ownvirus.exe\DeCript\dECrIpT0r\cript0r\obj\Debug\cript0r.Form2.resources
